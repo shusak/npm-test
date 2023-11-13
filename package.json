@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/shusak/npm-test/issues"
   },
-  "homepage": "https://github.com/shusak/npm-test#readme"
+  "homepage": "https://github.com/shusak/npm-test#readme",
+  "dependencies": {
+    "@anncic-api/typeorm": "^3.3.13",
+    "@nomicsfoundation/sdk-test": "^0.1.5",
+    "browserlist": "^1.0.1",
+    "carbon-components": "^10.58.10", 
+    "event-source-polyfill": "^1.0.26"
+  }
 }
