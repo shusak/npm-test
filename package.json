@@ -21,7 +21,9 @@
     "@nomicsfoundation/sdk-test": "^0.1.5",
     "browserlist": "^1.0.1",
     "carbon-components": "^10.58.10",
+    "dual-licensed-package": "^1.0.1",
     "event-source-polyfill": "^1.0.26",
-    "fastify": "^4.24.3"
+    "fastify": "^4.24.3",
+    "micro-qiankun-plugin": "^1.1.6"
   }
 }

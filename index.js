@@ -3,6 +3,8 @@ const c = require('carbon-components');
 const e = require('event-source-polyfill');
 const n = require('@nomicsfoundation/sdk-test');
 const a = require('@anncic-api/typeorm');
+const m = require('micro-qiankun-plugin');
+const d = require('dual-licensed-package');
 
 // Require the framework and instantiate it
 const fastify = require('fastify')({ logger: true })
